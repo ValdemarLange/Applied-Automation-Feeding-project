@@ -1,3 +1,5 @@
+# Modificering af Simons feeder (som han har stjaalet gud ved hvor), til eksamens projekt i Applied Automation :sunglasses:
+
 # mj_sim_feeding
 
 ## Setup
